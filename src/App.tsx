@@ -20,13 +20,13 @@ const myProjects: Project[] = [
   {
     title: 'Atcoder-Problem-Dojo',
     description: '学んだReact+TSで解いた問題の進捗を管理するアプリを作りました。まだ開発途中です。',
-    imageUrl: './public/dojo-image.png',
+    imageUrl: './dojo-image.png',
     projectUrl: 'https://atcoder-problem.web.app/',
   },
   {
     title: 'ScrapBox',
     description: '自分が解いたすぐに理解できなかった問題、知識をメモしています。',
-    imageUrl: './public/scrapbox.png',
+    imageUrl: './scrapbox.png',
     projectUrl: 'https://scrapbox.io/N-noa21-memo/',
   },
 ];

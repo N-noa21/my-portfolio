@@ -65,7 +65,7 @@ export const About = () => {
 
       <Avatar
         alt="N_noa21"
-        src="/public/icon.JPG"
+        src="/icon.JPG"
         sx={{ width: 150, height: 150, mx: 'auto', mt: 4, mb: 2 }}
       />
 
